@@ -1,0 +1,2 @@
+language = "c"
+run = "gcc nosso_bot.c -o nosso_bot && node buraco.js nosso_bot"
